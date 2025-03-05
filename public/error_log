@@ -1,0 +1,31 @@
+[02-Nov-2024 10:50:46 UTC] PHP Warning:  require(/home6/bloggerc/goaltract.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:50:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home6/bloggerc/goaltract.com/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home6/bloggerc/goaltract.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:50:49 UTC] PHP Warning:  require(/home6/bloggerc/goaltract.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:50:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home6/bloggerc/goaltract.com/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home6/bloggerc/goaltract.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:17 UTC] PHP Warning:  require(/home6/bloggerc/goaltract.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home6/bloggerc/goaltract.com/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home6/bloggerc/goaltract.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:18 UTC] PHP Warning:  require(/home6/bloggerc/goaltract.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home6/bloggerc/goaltract.com/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home6/bloggerc/goaltract.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:19 UTC] PHP Warning:  require(/home6/bloggerc/goaltract.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home6/bloggerc/goaltract.com/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home6/bloggerc/goaltract.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:19 UTC] PHP Warning:  require(/home6/bloggerc/goaltract.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[02-Nov-2024 10:51:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home6/bloggerc/goaltract.com/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home6/bloggerc/goaltract.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home6/bloggerc/goaltract.com/public/index.php on line 13
+[03-Nov-2024 22:41:27 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\Cache" not found in /home6/bloggerc/goaltract.com/app/Http/Controllers/HomeController.php on line 19
