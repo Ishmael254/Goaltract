@@ -1,3 +1,4 @@
 deployment:
   tasks:
-    - /bin/bash /home/bloggerc/goaltract.com/deploy.sh
+    - export DEPLOYPATH=/home/bloggerc/hostname.blogger.co.ke/
+    -/bin/cp * $DEPLOYPATH
