@@ -1,0 +1,3 @@
+deployment:
+  tasks:
+    - /bin/bash /home/bloggerc/goaltract.com/deploy.sh
